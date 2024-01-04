@@ -24,10 +24,10 @@ Answer the following questions using SparkSQL:
 
 4. What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-    Original data
+  Original data
 
 
-    ![Alt text](image-3.png)
+   ![Alt text](image-3.png)
 
 5. Using the cached data, run the query that filters out the view ratings with average price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
 
@@ -38,9 +38,10 @@ Answer the following questions using SparkSQL:
 
 
 
-   Parquet formatted data
 
-   
+  Parquet formatted data
+
+
    ![Alt text](image-5.png)
 
 Both the cached data and the Parquet formatted data have faster runtimes compared to the original data .
