@@ -10,7 +10,7 @@ Answer the following questions using SparkSQL:
 1. What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 
-(image.png)
+![Alt text](image.png)
 
 2. What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 ![Alt text](image-1.png)
