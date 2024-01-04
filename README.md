@@ -26,13 +26,11 @@ Answer the following questions using SparkSQL:
 
   Original data
 
-
    ![Alt text](image-3.png)
 
 5. Using the cached data, run the query that filters out the view ratings with average price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
 
   Cached data
-
 
    ![Alt text](image-4.png)
 
@@ -40,7 +38,6 @@ Answer the following questions using SparkSQL:
 
 
   Parquet formatted data
-
 
    ![Alt text](image-5.png)
 
